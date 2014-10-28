@@ -1,0 +1,7 @@
+ID, Pool Name, Raid Level, Total Space, Used Space
+1, Platinum, 5, 100, 5
+2, Gold, 5, 500, 200
+3, Silver, 0, 500, 400
+5, Bronze, 0, 1000, 200
+6, Chris's Pool, 6, 50, 10
+   

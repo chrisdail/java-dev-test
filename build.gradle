@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'eclipse'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "commons-lang:commons-lang:2.5",
+            "commons-io:commons-io:2.3",
+            "commons-collections:commons-collections:3.2.1"
+}
